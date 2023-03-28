@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Etl\Manager\Task\Infrastructure\Etl\Loader;
+namespace Borodovich\Etl\Loader;
 
 use Etl\Manager\Task\Domain\Entity\SettingKey;
 use Etl\Manager\Task\Domain\Entity\TaskSettings;

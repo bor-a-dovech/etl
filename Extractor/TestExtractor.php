@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Etl\Manager\Task\Infrastructure\Etl\Extractor;
+namespace Borodovich\Etl\Extractor;
 
 use Etl\Manager\Task\Domain\Entity\ExtractedData;
 use Etl\Manager\Task\Domain\Entity\TaskSettings;

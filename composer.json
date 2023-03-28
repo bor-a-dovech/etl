@@ -1,0 +1,17 @@
+{
+    "type": "symfony-bundle",
+    "name": "bor-a-dovech/etl",
+    "description": "etl",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1",
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Borodovich\\Etl\\": "src/"
+        }
+    }
+}

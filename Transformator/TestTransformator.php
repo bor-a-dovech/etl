@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Etl\Manager\Task\Infrastructure\Etl\Transformator;
+namespace Borodovich\Etl\Transformator;
 
 use Etl\Manager\Task\Domain\Entity\TaskSettings;
 use Etl\Manager\Task\Domain\Entity\TransformedData;
